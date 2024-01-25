@@ -1,15 +1,17 @@
 ---
 name: User story 9
-about: 'Need the ability to query a subset of products in the catalog. '
+about: Must be hosted in the cloud. 
+. '
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**As a** user
- **I need** Need the ability to query a subset of products in the catalog. 
- **So that** I can refine products
+**As a** developer
+ **I need** Must be hosted in the cloud. 
+. 
+ **So that** I can find it any time
    
  ### Details and Assumptions
  * [document what you know]
