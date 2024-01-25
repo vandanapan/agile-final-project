@@ -1,16 +1,16 @@
 ---
 name: User story 1
-about: Describe this issue template's purpose here.
+about:  Need the ability to create a product in the catalog. .
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [developer]  
+**As a** user
  **I need** Need the ability to create a product in the catalog. 
   
- **So that** customer can view the product
+ **So that** I can view the product
    
  ### Details and Assumptions
  * [document what you know]
