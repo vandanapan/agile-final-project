@@ -1,15 +1,15 @@
 ---
 name: User story 8
-about: 'Need the ability to list all products in the catalog. '
+about: Need the ability to query a subset of products in the catalog.  '
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a** user 
+ **I need** Need the ability to query a subset of products in the catalog.  
+ **So that** i can subset a product
    
  ### Details and Assumptions
  * [document what you know]
