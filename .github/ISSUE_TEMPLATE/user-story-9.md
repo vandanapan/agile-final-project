@@ -1,7 +1,6 @@
 ---
 name: User story 9
-about: Must be hosted in the cloud. 
-. '
+about: Must be hosted in the cloud. .  '
 title: ''
 labels: ''
 assignees: ''
@@ -9,9 +8,8 @@ assignees: ''
 ---
 
 **As a** developer
- **I need** Must be hosted in the cloud. 
-. 
- **So that** I can find it any time
+ **I need** Must be hosted in the cloud.   
+ **So that** i can view product anywhere
    
  ### Details and Assumptions
  * [document what you know]
